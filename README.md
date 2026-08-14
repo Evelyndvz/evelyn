@@ -4,7 +4,7 @@
 ### 🌸 Profile:
 
 ```text
-seu_nome_aqui
+evelyn
 ───────────────────────────────────
 SO: Windows 11
 CARGO: Desenvolvedora / Estudante
